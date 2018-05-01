@@ -1,10 +1,3 @@
-/*******************************************************************
-*
-*  DESCRIPTION: Common header file
-*
-*  AUTHOR: Ali Salaheddin
-*  Note: Imported from old E-CD++ project (Daniella)
-*******************************************************************/
 
 
 #ifndef __COMMON_H
